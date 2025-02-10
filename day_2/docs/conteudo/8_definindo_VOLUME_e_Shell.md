@@ -1,0 +1,2 @@
+O `SHELL` serve para definir qual o shell que vamos utilizar no container (bash, sh, ksh..)
+O `VOLUME` serve para definir um diretório para não perder dados gerados pelo container caso ele seja restartado.
